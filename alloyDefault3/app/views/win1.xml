@@ -1,0 +1,6 @@
+<Alloy>
+	<Window>
+		<Label class="Label">Label and button title defined in XML inline. Styles applied. - Click to close</Label>
+			<Button id='button' class="btn" bottom='5' onClick='close'>Close</Button>
+	</Window>
+</Alloy>

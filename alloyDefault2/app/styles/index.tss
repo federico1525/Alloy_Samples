@@ -1,0 +1,39 @@
+"Window": {
+	backgroundColor: "white" // not applied
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Helvetica Neue'
+	},
+	textAlign: 'center'
+} 
+
+// '#win1':{
+	// backgroundColor:'red'  //IF NOT COMMENTED WOULD BE APPLIED
+// }
+
+// '#win2':{
+	// backgroundColor:'blue'
+// }
+
+".firstWin": {
+	backgroundColor:'purple'  // Y
+}
+
+"#label1": {
+	color:'blue',
+	text:'you should NOT see this'
+	// backgroundColor: "white",
+}
+
+// iPhone
+"Label[platform=ios formFactor=handheld]": {
+    backgroundColor: "purple",
+    text: 'you should NOT see this'
+}
+

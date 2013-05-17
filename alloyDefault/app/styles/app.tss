@@ -1,0 +1,12 @@
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "yellow",
+	font:{
+		fontSize:'36dp'
+	}
+} 
+
+".container": {
+	backgroundColor:'gray'
+}

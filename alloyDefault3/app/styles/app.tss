@@ -1,0 +1,10 @@
+"Window":{
+	backgroundColor:'blue'
+}
+
+"Label": {
+	font:{
+		fontSize:'18dp'
+	},
+	color:'white'
+}

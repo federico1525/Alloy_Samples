@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class='container' id='mainWin'>
+		<View id='view1' backgroundColor='orange' height='50%' width='70%'>
+			<Label>This is a View</Label>
+		</View>
+		<Button bottom=5 onClick='close'>Close</Button>
+	</Window>
+</Alloy>

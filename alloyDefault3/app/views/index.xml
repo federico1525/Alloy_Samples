@@ -1,6 +1,0 @@
-<Alloy>
-	<Window>
-		<Label class="Label"></Label>
-			<Button id='button' class="btn" bottom='5'>
-	</Window>
-</Alloy>

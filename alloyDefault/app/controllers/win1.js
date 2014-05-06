@@ -1,3 +1,0 @@
-function close(){
-	$.mainWin.close();
-};

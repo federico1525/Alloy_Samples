@@ -1,0 +1,17 @@
+"Label": {
+	text:"you should not see this"
+}
+
+".label":{
+    text:"you should see this for title2"
+}
+
+
+// "Label[if=Alloy.Globals.someProperty]":{
+    // text:"Custom TSS for ALL labels - if someProperty is true it should be visible in the last label"
+// }
+
+
+"#title":{
+    text:"Title!!! you should see this on the first one"
+}

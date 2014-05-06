@@ -1,0 +1,18 @@
+"Window":{
+    layout:"vertical",
+    backgroundColor:'white',
+    top:40
+    
+}
+
+"Label":{
+    top:10
+}
+
+"#title3":{
+	text:"you should this for title3"
+}
+
+// "Label[if=Alloy.Globals.someProperty]":{
+    // text:"Custom TSS for ALL labels - if someProperty is true it should be visible in the last label"
+// }

@@ -1,0 +1,11 @@
+"Label": {
+	text:"you should not see this "
+}
+
+".label":{
+    text:"you should see this for title2"
+}
+
+"#title":{
+    text:"you should see this on the first one"
+}

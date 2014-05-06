@@ -1,0 +1,21 @@
+"Window":{
+    layout:"vertical",
+    backgroundColor:'white',
+    top:40
+    
+}
+
+"Label":{
+    top:20,
+    font:{
+    	fontSize:'14dp'
+    }
+}
+
+"#title3":{
+	text:"you should this for title3"
+}
+
+"Label[if=Alloy.Globals.someProperty]":{
+    text:"Custom TSS for Labels API - should be visible only in the last label"
+}

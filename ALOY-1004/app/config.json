@@ -1,13 +1,9 @@
 {
-	"global": {
-		"theme": "blue"
-	},
+	"global": {},
 	"os:ios": {
 		"theme": "green"
 	},
-	"os:android": {
-		"theme": "dark"
-	},
+	"os:android": {},
 	"sourcemap": false,
 	"adapters": []
 }

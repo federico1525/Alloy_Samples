@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white"
+},
+"#map": {
+    userLocation: false,
+    animate: true,
+    height: '80%',
+    top: 0,
+	region: { latitude: 37.38, latitudeDelta: 0.2, longitude: -122.05, longitudeDelta: 0.2 	}
+}

@@ -1,0 +1,12 @@
+<Alloy>
+  <Window class='container' id="win">
+  	<Module id="map" module="ti.map">
+  		<!-- <Annotation id="anno1"/> -->
+  	</Module>
+    <!-- <View id="dividerLine"/>
+  	<Module id="map1" module="ti.map" method="createView">
+  		<Annotation id="anno2"/>
+  	</Module> -->
+  	<Button bottom="20" onClick="mapToCamera">Click</Button>
+  </Window>
+</Alloy>

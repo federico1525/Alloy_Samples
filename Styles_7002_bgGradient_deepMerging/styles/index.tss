@@ -1,0 +1,43 @@
+"Window":{
+	layout:'vertical'
+}
+
+".labelClass":{
+	customProp2:"custom property 2",
+	font:{
+		fontSize:'24dp',
+		fontCustomDeep2:'font custom deep property 2'
+	},
+	left:10,
+	backgroundGradient: {
+		type: 'linear',
+        startPoint: { x: '0%', y: '50%' },
+        endPoint: { x: '100%', y: '50%' , z: '20%'},
+        colors: [
+        	{ color: 'green', offset: 0.0},
+        	{ color: 'gray', offset: 0.25 },
+        	{ color: 'purple', offset: 0.75 },
+        	{ color: 'blue', offset: 1.0 }
+        ],
+        customProBGGrad1:"custom property bgGradient"
+	}
+}
+
+
+".viewClass":{
+	customPropView1: "custom prop view 1",
+	backgroundColor:'blue',
+	right:20,
+	backgroundGradient: {
+		type: 'linear',
+        startPoint: { x: '0%', y: '50%' },
+        endPoint: { x: '100%', y: '50%' , z: '20%'},
+        colors: [
+        	{ color: 'green', offset: 0.0},
+        	{ color: 'gray', offset: 0.25 },
+        	{ color: 'purple', offset: 1.0 },
+        	{ color: 'blue', offset: 1.0 }
+        ],
+        customProBGGrad1:"custom property bgGradient"
+	}
+}

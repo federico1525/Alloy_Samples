@@ -1,0 +1,36 @@
+".labelClass":{
+	customProp2:"custom property 2",
+	font:{
+		fontSize:'24dp',
+		fontCustomDeep2:'font custom deep property 2'
+	},
+	left:10,
+	backgroundGradient: {
+		type: 'linear',
+        startPoint: { x: '0%', y: '50%' },
+        endPoint: { x: '100%', y: '50%' },
+        colors: [
+        	{ color: 'purple', offset: 0.0},
+        	{ color: 'red', offset: 0.25 },
+        	{ color: 'yellow', offset: 1.0 }
+        ],
+        customProBGGrad2:"custom property bgGradient android",
+	}
+}
+
+".viewClass":{
+	customPropView2: "custom prop view 2",
+	backgroundColor:'green',
+	left:30,
+	backgroundGradient: {
+		type: 'linear',
+        startPoint: { x: '0%', y: '50%' },
+        endPoint: { x: '100%', y: '50%' },
+        colors: [
+        	{ color: 'purple', offset: 0.0},
+        	{ color: 'red', offset: 0.25 },
+        	{ color: 'yellow', offset: 0.75 }
+        ],
+        customProBGGrad2:"custom property bgGradient android",
+	}
+}
